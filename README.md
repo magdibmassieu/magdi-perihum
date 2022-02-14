@@ -1,5 +1,4 @@
-# magdi-perihum
-Comentario sobre dos artículos
+# magdi-perihum: Comentario sobre dos artículos
 
 # Comentario Artículo Tresca Projects
 ## *Are social media harmful?*
