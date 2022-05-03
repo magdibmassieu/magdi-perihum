@@ -1,4 +1,4 @@
-# Explicación de mi repositorio "practicas-periodismo-patos"
+# Explicación de este repositorio "practicas-periodismo-patos"
 
 ## ¡Bienvenid@s a mi repositorio de la asignatura de Periodismo de Datos!
 
