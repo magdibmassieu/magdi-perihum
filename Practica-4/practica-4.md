@@ -2,7 +2,7 @@
 
 ## Hago uso de los datos en abierto del Ayuntamiento de Alcobendas
 
-Para esta cuarta práctica, me he valido de los datos en abiero de la [página web del Ayuntamiento de Alcobendas](https://www.alcobendas.org/es/ayuntamiento), centrándome en un aspecto relacionado con la toma de medidas para la mejora de la calidad de vida de los ciudadanos. Más concretamente, la instalación de una red de wifi pública:
+Para esta cuarta práctica, me he valido de los datos en abierto de la [página web del Ayuntamiento de Alcobendas](https://www.alcobendas.org/es/ayuntamiento), centrándome en un aspecto relacionado con la toma de medidas para la mejora de la calidad de vida de los ciudadanos. Más concretamente, la instalación de una red de wifi pública:
 
 > El Ayuntamiento de Alcobendas ha puesto en funcionamiento una plataforma de promoción de la ciudad que además ofrece acceso a internet con tecnología inalámbrica: Wi-Fi abierta, gratuita y universal para todos los vecinos y visitantes
 
